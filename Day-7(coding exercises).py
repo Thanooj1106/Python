@@ -1,4 +1,4 @@
-"""import random
+import random
 list1 = [1,23,43,657,856,35644,345]
 a = random.choice(list1)
 print(a)
@@ -29,7 +29,7 @@ person_selected = random.choice(name_list)
 print(f"{person_selected} will pay the bill.")
 name = input ("Enter everybody names separated by comma:")
 name_list= name.split(",")
-print(f"{random.choice(name_list)} will pay the bill.")"""
+print(f"{random.choice(name_list)} will pay the bill.")
 num = [1,32,23,212,132,[2937,847,8174],8264,82.214]
 length = len(num)
 print(length)
